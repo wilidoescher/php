@@ -1,6 +1,7 @@
 <?php
 
 	echo "batata em git (atualizado 2)";
-	echo "conflit test";
+
+	echo "teste de conflito (resolvido)";
 
 ?>
